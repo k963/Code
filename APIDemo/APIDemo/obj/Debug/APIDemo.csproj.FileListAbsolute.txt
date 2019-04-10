@@ -1,0 +1,12 @@
+G:\Code Practice\APIDemo\APIDemo\obj\Debug\APIDemo.csprojAssemblyReference.cache
+G:\Code Practice\APIDemo\APIDemo\obj\Debug\APIDemo.csproj.CoreCompileInputs.cache
+G:\Code Practice\APIDemo\APIDemo\bin\Debug\APIDemo.exe.config
+G:\Code Practice\APIDemo\APIDemo\bin\Debug\APIDemo.exe
+G:\Code Practice\APIDemo\APIDemo\bin\Debug\APIDemo.pdb
+G:\Code Practice\APIDemo\APIDemo\bin\Debug\Newtonsoft.Json.dll
+G:\Code Practice\APIDemo\APIDemo\bin\Debug\System.Net.Http.Formatting.dll
+G:\Code Practice\APIDemo\APIDemo\bin\Debug\Newtonsoft.Json.xml
+G:\Code Practice\APIDemo\APIDemo\bin\Debug\System.Net.Http.Formatting.xml
+G:\Code Practice\APIDemo\APIDemo\obj\Debug\APIDemo.csproj.CopyComplete
+G:\Code Practice\APIDemo\APIDemo\obj\Debug\APIDemo.exe
+G:\Code Practice\APIDemo\APIDemo\obj\Debug\APIDemo.pdb
